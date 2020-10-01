@@ -1,4 +1,4 @@
-# SOng Searcher
+# Song Searcher
 
 ## Installation
 
